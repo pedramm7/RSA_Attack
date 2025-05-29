@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+*.env
+
+# macOS
+.DS_Store
+
+# Logs and private key files
+*.log
+*_private.pem
+
+# IDEs
+.vscode/
+.idea/
+
+# Test artifacts
+*.out
+*.pem
+*.pub
