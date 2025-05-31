@@ -32,5 +32,5 @@ It recovers the private key
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/pedramm7/rsa-key-cracker.git
-cd rsa-key-cracker
+git clone https://github.com/pedramm7/RSA_Attack.git
+cd RSA_Attack
